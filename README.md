@@ -61,9 +61,9 @@ You must submit a CSV file with:
 
 The evaluation metric is **accuracy**, defined as:
 
-\[
+$$
 \text{Accuracy} = \frac{\text{True Positives} + \text{True Negatives}}{\text{Total Observations}}
-\]
+$$
 
 - Best possible score: **1.0 (100%)**
 - Worst possible score: **0.0 (0%)**
